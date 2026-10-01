@@ -1,0 +1,6 @@
+{
+  "name": "JoziCart",
+  "description": "South Africa's premier online marketplace. Shop, discover, and get everyday essentials, fashion, tech, and local goods delivered across Johannesburg and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
